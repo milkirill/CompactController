@@ -13,6 +13,7 @@
 		14D070802AB1B21F00B330DA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14D0707E2AB1B21F00B330DA /* Main.storyboard */; };
 		14D070822AB1B21F00B330DA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 14D070812AB1B21F00B330DA /* Assets.xcassets */; };
 		14D070852AB1B21F00B330DA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14D070832AB1B21F00B330DA /* LaunchScreen.storyboard */; };
+		14D0708D2AB1B97800B330DA /* CompactViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14D0708C2AB1B97800B330DA /* CompactViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		14D070812AB1B21F00B330DA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		14D070842AB1B21F00B330DA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		14D070862AB1B21F00B330DA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		14D0708C2AB1B97800B330DA /* CompactViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompactViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				14D070782AB1B21F00B330DA /* AppDelegate.swift */,
 				14D0707A2AB1B21F00B330DA /* SceneDelegate.swift */,
 				14D0707C2AB1B21F00B330DA /* ViewController.swift */,
+				14D0708C2AB1B97800B330DA /* CompactViewController.swift */,
 				14D0707E2AB1B21F00B330DA /* Main.storyboard */,
 				14D070812AB1B21F00B330DA /* Assets.xcassets */,
 				14D070832AB1B21F00B330DA /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				14D0708D2AB1B97800B330DA /* CompactViewController.swift in Sources */,
 				14D0707D2AB1B21F00B330DA /* ViewController.swift in Sources */,
 				14D070792AB1B21F00B330DA /* AppDelegate.swift in Sources */,
 				14D0707B2AB1B21F00B330DA /* SceneDelegate.swift in Sources */,
